@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
-  "scripts": {
-    "server": "nodemon server.js"
+   "scripts": {
+    "server": "nodemon server.js",
+    "postinstall": "npm rebuild bcrypt --build-from-source"
   },
   "author": "",
   "license": "ISC",
