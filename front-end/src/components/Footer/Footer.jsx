@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere rem doloremque exercitationem in vero, repellat beatae illum voluptatem perspiciatis dolorum natus nihil dicta, officia doloribus. Minima excepturi quae fuga maxime.</p>
+                <p>Tomato is a user-friendly and visually appealing food ordering platform designed to deliver a seamless dining experience online. Whether you're craving a quick bite or a full-course meal, Tomato makes it easy to explore, choose, and enjoy your favorite dishes. With a responsive layout and intuitive interface, it’s the perfect solution for modern food lovers who value convenience and quality. Future enhancements could include real-time order tracking, payment integration.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
